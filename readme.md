@@ -34,7 +34,7 @@ This project is built using a modern Go stack, focusing on performance and real-
 -   **[Godotenv](https://github.com/joho/godotenv):** A Go library to load environment variables from a `.env` file, simplifying configuration management.
 
 ## Project Structure
-
+```
 ├── .gitignore
 ├── common
 │   └── errors.go
@@ -54,7 +54,7 @@ This project is built using a modern Go stack, focusing on performance and real-
 │   └── utils.go
 └── ws
     └── ws.go
-
+```
 
 -   **`/common`**: Contains common error types used across the application.
 -   **`/config`**: Handles application and smart contract configuration, including loading from environment variables.
