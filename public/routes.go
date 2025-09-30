@@ -1,7 +1,7 @@
 package public
 
 import (
-	"github.com/Rx-11/prediction-backend/common"
+	"github.com/Rx-11/flipcoin-backend/common"
 	"github.com/gofiber/fiber/v2"
 )
 

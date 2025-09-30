@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Rx-11/prediction-backend/contracts"
+	"github.com/Rx-11/flipcoin-backend/contracts"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"

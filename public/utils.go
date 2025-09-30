@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Rx-11/prediction-backend/config"
+	"github.com/Rx-11/flipcoin-backend/config"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/core/types"
 )
