@@ -184,3 +184,8 @@ The following environment variables need to be set in a `.env` file in the proje
 | `OWNER_ADDRESS` | The address of the contract owner. | `0x789gHi123JkL456...` |
 | `OPERATOR_ADDRESS`| The address of the operator. | `0xAbC123dEf456gHi...` |
 | `PRIVATE_KEY_HEX` | The private key of the account used to send transactions. | `a1b2c3d4e5f6a1b2c3d4e5f6...` |
+
+## System Architecture
+
+![Flipcoin Backend Architecture](./flipCoin.png)
+
